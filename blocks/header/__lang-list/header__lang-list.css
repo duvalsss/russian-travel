@@ -1,0 +1,16 @@
+.header__lang-list {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 6px;
+    box-sizing: border-box;
+    
+    
+}
+
+@media screen and (max-width: 375px){
+    .header__lang-list {
+      padding-bottom: 4px;
+    }
+  }

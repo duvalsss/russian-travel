@@ -1,0 +1,15 @@
+.place__url {
+    display: flex;
+    flex-direction: column;
+    align-self: end;
+    justify-self: start;
+   
+  }
+
+  @media screen and (max-width: 375px){
+    .place__url {
+      display: none;
+      
+      
+    }
+  }
