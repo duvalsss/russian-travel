@@ -11,3 +11,7 @@
 3. Grid Layout
 4. Медиа-запросы 
 
+### Ссылка на проект 
+
+https://duvalsss.github.io/russian-travel/index.html
+
