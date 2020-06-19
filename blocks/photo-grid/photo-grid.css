@@ -4,6 +4,7 @@
     
     
     .photo-grid {
+      font-family: "Inter", Arial, sans-serif;
         margin: 92px auto;
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(255px, 1fr)); 
@@ -12,8 +13,8 @@
         -moz-box-sizing: border-box;
         box-sizing: border-box;
         padding: 0 48px;
+      
         
-    
         
       }
 

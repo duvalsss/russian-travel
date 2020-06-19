@@ -8,6 +8,7 @@
 
 
 .place {
+  font-family: "Inter", Arial, sans-serif;
   display: grid;
   grid-gap: 48px 40px;
   grid-template-columns: 460px 1fr;
