@@ -1,9 +1,9 @@
 @media screen and (max-width: 720px) {
-    .footer__li {
+    .footer__list-item {
         margin-bottom: 32px;
        
     }
-    .footer__li:last-child {
+    .footer__list-item:last-child {
         margin-bottom: 0;
     }
 

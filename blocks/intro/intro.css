@@ -8,7 +8,8 @@
 .intro {
     font-family: "Inter", Arial, sans-serif;
     max-width: 690px;
-    margin: 92px auto 0 148px;
+    margin: 0 148px;
+    padding: 92px 0 0;;
     width: 100%;
 
   }
@@ -24,15 +25,10 @@
     .intro {
       max-width: 720px;
       margin: 88px 24px 0;
+      padding-top: 0;
     }
   }
   
-  @media screen and (max-width: 768px) {
-    .intro {
-      max-width: 500px;
-      margin: 88px 24px 0;
-    }
-  }
   
 
   @media screen and (max-width: 540px) {
