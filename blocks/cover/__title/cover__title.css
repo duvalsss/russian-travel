@@ -10,7 +10,7 @@
   text-align: center;
   }
 
-  @media screen and (max-width: 375px){
+  @media screen and (max-width: 540px){
       .cover__title {
           margin-bottom:16px;
           font-size: 32px;
@@ -20,12 +20,5 @@
       }
     }
 
-    @media screen and (max-width: 540px){
-      .cover__title {
-          margin-bottom:16px;
-          font-size: 32px;
-          line-height: 1.09;
-          max-width: 415px;
-      
-      }
-    }
+   
+

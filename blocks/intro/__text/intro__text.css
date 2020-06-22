@@ -5,4 +5,17 @@
     margin-bottom: 32px;
     width: 100%;
   }
-  
+
+
+  @media screen and (min-width: 540px) and (max-width: 766px) {
+    .intro__text {
+      max-width: 500px;
+      width: 100%;
+     
+    }
+  }
+
+ 
+
+
+
