@@ -24,5 +24,6 @@
     .lead__image {
       max-width: 320px;
         margin-bottom: 0;
+        object-fit: fill;
     }
   }
