@@ -5,7 +5,7 @@
 @import url(./__image/place__image.css);
 @import url(./__title/place__title.css);
 @import url(./__paragraph/place__paragraph.css);
-@import url(./__url-item-accent/place__url-item-accent.css);
+
 
 
 .place {
@@ -52,15 +52,17 @@
   
     
   }
-}
 
-@media screen and (max-width: 375px){
+
   .place:first-of-type {
     margin-top: 0px;
     
     
   }
+
+
 }
+
 
 
 @media screen and (max-width: 600px){
@@ -72,15 +74,15 @@
   
     
   }
-}
 
-@media screen and (max-width: 600px){
   .place:first-of-type {
     margin-top: 0px;
     
     
   }
+
 }
+
 
 
 
